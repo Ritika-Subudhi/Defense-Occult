@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986304311900",
+    "project_id": "defoccult",
+    "storage_bucket": "defoccult.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986304311900:android:5c9504816848a8ffe46c99",
+        "android_client_info": {
+          "package_name": "com.example.defenseoccultfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986304311900-20r1fjqrb9oeebkck8o62be7vsg34ulc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwocmth0-QDhhR7s-r6kRDDNq0NZf1e3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986304311900-20r1fjqrb9oeebkck8o62be7vsg34ulc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
